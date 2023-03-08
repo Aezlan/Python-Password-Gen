@@ -10,7 +10,6 @@ Clone the repository to your local machine.
 
 Make sure you have Python 3 installed on your machine.
 
-Run the script using the command python3 main.py.
 Usage
 
 Run the script.
