@@ -1,16 +1,16 @@
-PyPassword Generator
+# PyPassword Generator
 
-Description
+## Description
 
 This is a simple password generator created using Python. It generates a random password based on the user's input for the number of letters, symbols, and numbers.
 
-Installation
+## Installation
 
 Clone the repository to your local machine.
 
 Make sure you have Python 3 installed on your machine.
 
-Usage
+## Usage
 
 Run the script.
 
